@@ -1,4 +1,4 @@
-### Hi there 👋
+### alert("Hello World 👋")
 
 <!--
 **woffrek/woffrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![github stats](https://github-readme-stats.codestackr.vercel.app/api?username=woffrek&show_icons=true&hide_border=true&count_private=true&theme=dark)
